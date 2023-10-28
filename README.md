@@ -36,6 +36,20 @@ The methodology section delves into the preprocessing steps, automatic annotatio
 
 The results section presents an analysis of the model's performance, including key metrics such as mean Average Precision (mAP), precision, recall, and F1 score. Visualizations of detection results and discussions on hyperparameters and training strategies are included.
 
+## Screenshots
+
+You can find some screenshots of our project below:
+
+![Screenshot 1](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (84))
+
+![Screenshot 2](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (85))
+
+![Screenshot 3](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (86))
+
+![Screenshot 3](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (87))
+
+![Screenshot 3](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (88))
+
 ## Conclusion
 
 The conclusion summarizes the key takeaways of the research and discusses the broader implications of efficient object detection in retail inventory management. It also outlines future directions for further research in this field.

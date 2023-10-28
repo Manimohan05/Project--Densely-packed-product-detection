@@ -18,6 +18,8 @@ This repository contains the research paper and code related to the application 
 ## Introduction
 
 The significance of this research lies in its contribution to computer vision and object detection in retail inventory management. Efficiently and accurately detecting products on supermarket shelves has transformative implications for the retail industry. This paper explores the adaptation of the YOLOv8 algorithm to tackle this challenging task, using the SKU-110K dataset.
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/main/Densely%20Packed%20Product%20Detection%20using%20Computer%20Vision%20Project%20(2).mp4)
+
 
 ## Dataset
 

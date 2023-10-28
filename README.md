@@ -40,15 +40,15 @@ The results section presents an analysis of the model's performance, including k
 
 You can find some screenshots of our project below:
 
-![Screenshot 1](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (84))
+![Screenshot 1](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/screenshot_84.png)
 
-![Screenshot 2](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (85))
+![Screenshot 2](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/screenshot_85.png)
 
-![Screenshot 3](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (86))
+![Screenshot 3](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/screenshot_86.png)
 
-![Screenshot 3](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (87))
+![Screenshot 4](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/screenshot_87.png)
 
-![Screenshot 3](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/Screenshot (88))
+![Screenshot 5](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/6a622f9d966f47afd854a9689ce79ea29ca36fb2/Screenshots/screenshot_88.png)
 
 ## Conclusion
 

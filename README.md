@@ -1,6 +1,6 @@
 # Retail Inventory Management with Object Detection
 
-![Retail Inventory Management](image.png)
+![Retail Inventory Management](Screenshots/screenshot_84.png)
 
 This repository contains the research paper and code related to the application of object detection for retail inventory management. The paper discusses the utilization of the YOLOv8 object detection algorithm to detect and locate products on densely packed supermarket shelves.
 
@@ -12,17 +12,14 @@ This repository contains the research paper and code related to the application 
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
-[![Watch the video](https://img.youtube.com/vi/Densely%20Packed%20Product%20Detection%20using%20Computer%20Vision%20Project%20(2).mp4/0.jpg)](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/main/Densely%20Packed%20Product%20Detection%20using%20Computer%20Vision%20Project%20(2).mp4)
+🎥 **Demo video:** [Densely Packed Product Detection using Computer Vision](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/main/Densely%20Packed%20Product%20Detection%20using%20Computer%20Vision%20Project%20(2).mp4)
 
 
 ## Introduction
 
 The significance of this research lies in its contribution to computer vision and object detection in retail inventory management. Efficiently and accurately detecting products on supermarket shelves has transformative implications for the retail industry. This paper explores the adaptation of the YOLOv8 algorithm to tackle this challenging task, using the SKU-110K dataset.
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/Manimohan05/Project--Densely-packed-product-detection/raw/main/Densely%20Packed%20Product%20Detection%20using%20Computer%20Vision%20Project%20(2).mp4)
-
 
 ## Dataset
 
@@ -56,12 +53,8 @@ The conclusion summarizes the key takeaways of the research and discusses the br
 
 ## Usage
 
-To replicate the research and run the code, follow the instructions in the [Usage](USAGE.md) guide.
-
-## Contributing
-
-We welcome contributions from the open-source community. Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+To replicate the research, open `Densely Packed Product Detection using Computer Vision.ipynb` (PyTorch + Ultralytics YOLOv8, CUDA GPU recommended) and run the cells in order. Trained weights are in `YOLOweights/`, and the full write-up is in `en3160_project_200377M_200552V.pdf`.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
